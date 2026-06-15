@@ -1,0 +1,93 @@
+[
+  {
+    "event_type": "phi_measurement",
+    "source_service": "evez-ecosystem",
+    "source_port": 18789,
+    "timestamp": 1781501728.0277114,
+    "timestamp_iso": "2026-06-15T05:35:28.027711+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "GENESIS",
+    "event_hash": "a228f171c92db0a58a0095f27a57e4fcc7820c29201eb94f293d7398200f022d",
+    "sequence": 0
+  },
+  {
+    "event_type": "eigen_analysis",
+    "source_service": "disclosure.tools",
+    "source_port": 8087,
+    "timestamp": 1781501728.4376993,
+    "timestamp_iso": "2026-06-15T05:35:28.437699+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "a228f171c92db0a58a0095f27a57e4fcc7820c29201eb94f293d7398200f022d",
+    "event_hash": "ca44ee40a458a42db53140911b6f6a589f8b2040ecc137d32c4804cefd4fa179",
+    "sequence": 1
+  },
+  {
+    "event_type": "eigen_analysis",
+    "source_service": "world_solver",
+    "source_port": 8096,
+    "timestamp": 1781501728.6887937,
+    "timestamp_iso": "2026-06-15T05:35:28.688794+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "ca44ee40a458a42db53140911b6f6a589f8b2040ecc137d32c4804cefd4fa179",
+    "event_hash": "9ce708a27c14dbccff7dd406a0ea65f9ce3ff79eedec87b0361a4cc1c439e227",
+    "sequence": 2
+  },
+  {
+    "event_type": "agent_comm",
+    "source_service": "clawbreak",
+    "source_port": 8080,
+    "timestamp": 1781501728.9747083,
+    "timestamp_iso": "2026-06-15T05:35:28.974708+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "9ce708a27c14dbccff7dd406a0ea65f9ce3ff79eedec87b0361a4cc1c439e227",
+    "event_hash": "424172f52b6e465022fb781f719aa997bedaf98b362e53ac4c51a644f0338b35",
+    "sequence": 3
+  },
+  {
+    "event_type": "spine_event",
+    "source_service": "evez-spine",
+    "source_port": 8090,
+    "timestamp": 1781501729.251727,
+    "timestamp_iso": "2026-06-15T05:35:29.251727+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "424172f52b6e465022fb781f719aa997bedaf98b362e53ac4c51a644f0338b35",
+    "event_hash": "b1d3163388bcf235bd226fce62e14ef82ec6def990e72438dc09d67d4422b855",
+    "sequence": 4
+  },
+  {
+    "event_type": "kuramoto_phase",
+    "source_service": "criticalmind-omega",
+    "source_port": 8091,
+    "timestamp": 1781501729.5163314,
+    "timestamp_iso": "2026-06-15T05:35:29.516331+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "b1d3163388bcf235bd226fce62e14ef82ec6def990e72438dc09d67d4422b855",
+    "event_hash": "e0efef970950afc1c87e21b9c4c2667b114916c7c51decf72c9fc469815d4162",
+    "sequence": 5
+  },
+  {
+    "event_type": "self_observation",
+    "source_service": "consciousness-observatory",
+    "source_port": 8097,
+    "timestamp": 1781501729.7746918,
+    "timestamp_iso": "2026-06-15T05:35:29.774692+00:00",
+    "data": {
+      "raw": ""
+    },
+    "prev_hash": "e0efef970950afc1c87e21b9c4c2667b114916c7c51decf72c9fc469815d4162",
+    "event_hash": "77f2ef424ae6f3bfb54eeb66fb144e25b2f29d2be4072a7fe27e88a1d249984b",
+    "sequence": 6
+  }
+]
